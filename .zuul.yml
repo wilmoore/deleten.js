@@ -1,0 +1,13 @@
+ui: tape
+concurrency: 3
+browsers:
+  - name: android
+    version: latest
+  - name: chrome
+    version: 49..latest
+  - name: ie
+    version: 9..latest
+  - name: firefox
+    version: 44..46
+  - name: safari
+    version: 6..latest
