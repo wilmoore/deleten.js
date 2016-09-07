@@ -11,7 +11,7 @@ npm install deleten --save
 or
 
 ```html
-<script src="https://npmcdn.com/deleten/deleten.min.js"></script>
+<script src="https://unpkg.com/deleten/deleten.min.js"></script>
 ```
 
 > You may also install `deleten` via [Bower], [Duo], or [jspm].
